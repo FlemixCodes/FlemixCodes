@@ -17,6 +17,10 @@ _*_ - языки которые я знаю
 <a href="https://t.me/FlemixXD">
 <img src="https://img.shields.io/badge/телеграм-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" title="Мой телеграм"/>
 </a>
+</div>
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=FlemixCodes&style=flat-square&color=white" alt="View Badge" title="Просмотры профиля"/>
+</div>
 
 **Python** — высокоуровневый, мультипарадигменный язык программирования общего назначения с динамической строгой типизацией и автоматическим управлением памятью. 
   Сам же язык известен как интерпретируемый и используется в том числе для написания скриптов. Недостатками языка являются зачастую более низкая скорость работы и более высокое потребление памяти написанных на нём программ.
