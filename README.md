@@ -13,9 +13,7 @@ _*_ - языки которые я знаю
 <a href="https://vk.com/dtrapftfuck">
 <img src="https://img.shields.io/badge/вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge" title="Мой вконтакте"/>
 </a>
-</div>
-
-<div id="badges">
+</div> <div id="badges">
 <a href="https://vk.com/dtrapftfuck">
 <img src="https://img.shields.io/badge/дискорд-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" title="Мой вконтакте"/>
 </a>
