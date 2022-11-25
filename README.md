@@ -4,6 +4,7 @@
 * JavaScript
 * HTML*
 * CSS
+* Kotlin
 
 _*_ - языки которые я знаю
 
