@@ -19,7 +19,7 @@ _*_ - языки которые я знаю
 </a>
 </div>
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=FlemixCodes&style=flat-square&color=white" alt="View Badge" title="Просмотры профиля"/>
+  <img src="https://komarev.com/ghpvc/?username=FlemixCodes&style=for-the-badge&color=blueviolet" alt="Views Badge" title="Просмотры профиля"/>
 </div>
 
 **Python** — высокоуровневый, мультипарадигменный язык программирования общего назначения с динамической строгой типизацией и автоматическим управлением памятью. 
