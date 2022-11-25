@@ -11,13 +11,11 @@ _*_ - языки которые я знаю
 
 <div id="badges">
 <a href="https://vk.com/dtrapftfuck">
-<img src="https://img.shields.io/badge/вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge" title="Мой вконтакте"/>
+<img src="https://img.shields.io/badge/вконтакте-black?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge" title="Мой вконтакте"/>
 </a>
 <a href="https://t.me/FlemixXD">
-<img src="https://img.shields.io/badge/телеграм-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" title="Мой телеграм"/>
+<img src="https://img.shields.io/badge/телеграм-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" title="Мой телеграм"/>
 </a>
-</div>
-
 
 **Python** — высокоуровневый, мультипарадигменный язык программирования общего назначения с динамической строгой типизацией и автоматическим управлением памятью. 
   Сам же язык известен как интерпретируемый и используется в том числе для написания скриптов. Недостатками языка являются зачастую более низкая скорость работы и более высокое потребление памяти написанных на нём программ.
