@@ -9,6 +9,6 @@
 
 <div id="badges">
 <a href="https://vk.com/dtrapftfuck">
-<img src="https://img.shields.io/badge/вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
+<img src="https://img.shields.io/badge/вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge" title="Мой вконтакте"/>
 </a>
 </div>
