@@ -37,6 +37,3 @@ _*_ - языки которые я знаю
     Авторы ставили целью создать язык более лаконичный и типобезопасный, чем Java. Язык полностью совместим с Java, что позволяет Java-разработчикам постепенно перейти к его использованию; в частности, язык также встраивается Android, что позволяет для существующего Android-приложения внедрять новые функции на Kotlin без переписывания приложения целиком.
 
 ---
-
-### Статистика:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FlemixCodes&theme=midnight-purple&border_radius=4&locale=ru)](https://git.io/streak-stats)
