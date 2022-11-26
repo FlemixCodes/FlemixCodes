@@ -3,7 +3,7 @@
 * Python*
 * JavaScript
 * HTML*
-* CSS
+* CSS*
 * Kotlin
 
 _*_ - языки которые я изучаю
