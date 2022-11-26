@@ -39,6 +39,6 @@ _*_ - языки которые я знаю
 ---
 
 ### Статистика:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlemixCodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlemixCodes&layout=compact&theme=modern-lilac2)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
