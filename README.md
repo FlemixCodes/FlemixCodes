@@ -19,4 +19,4 @@
 
 ## Social
 ![Static Badge](https://img.shields.io/badge/vk-000000?style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/dmitrylats)
-![Static Badge](https://img.shields.io/badge/telegram-000000?style=for-the-badge&logo=telegram&logoColor=white&link=https://Ft.me/rifost)
+![Static Badge](https://img.shields.io/badge/telegram-000000?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/rifost)
