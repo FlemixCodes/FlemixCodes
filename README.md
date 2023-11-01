@@ -15,6 +15,7 @@
 ![Static Badge](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
 
