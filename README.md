@@ -22,3 +22,5 @@
 ## Social
 ![Static Badge](https://img.shields.io/badge/vk-000000?style=for-the-badge&logo=vk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)
+
+## Statistic
