@@ -16,7 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=arduino&logoColor=white)
+![Static Badge](https://img.shields.io/badge/arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## Social
 ![Static Badge](https://img.shields.io/badge/vk-000000?style=for-the-badge&logo=vk&logoColor=white)
