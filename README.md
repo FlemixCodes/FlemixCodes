@@ -4,8 +4,8 @@
 * I am 15 years old
 
 ## Languages and Tools
-![Static Badge](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 <!-- ![Static Badge](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white) !-->
+![Static Badge](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
