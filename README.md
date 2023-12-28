@@ -7,6 +7,11 @@
 <!-- ![Static Badge](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white) !-->
 ![Static Badge](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white)
+![Static Badge](https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white)
+![Static Badge](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html&logoColor=white)
+![Static Badge](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sublime%20text-000000?style=for-the-badge&logo=sublime%20text&logoColor=white)
@@ -18,7 +23,6 @@
 ![Static Badge](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
-![Static Badge](https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white)
 
 ## Social
 ![Static Badge](https://img.shields.io/badge/vk-000000?style=for-the-badge&logo=vk&logoColor=white)
