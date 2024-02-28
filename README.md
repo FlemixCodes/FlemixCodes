@@ -1,7 +1,7 @@
 ## About
-* My name is Pavel
-* I'm beginner Python developer
-* I am 15 years old
+* My name is **Pavel**
+* I'm beginner **Python developer**
+* I am **15 years old**
 
 ## Languages and Tools
 ![Static Badge](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
