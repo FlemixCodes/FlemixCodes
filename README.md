@@ -42,6 +42,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=flemixcodes&show_icons=true&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flemixcodes&hide_progress=true&theme=synthwave"/>
 </div>
 
 <div align="center">
