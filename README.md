@@ -6,6 +6,10 @@
 </h1>
 
 <div align="center">
+  <p>:3</p>
+</div>
+
+<div align="center">
   <h1>Языки программирования</h1>
 </div>
 
