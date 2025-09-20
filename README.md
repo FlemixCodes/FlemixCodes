@@ -4,3 +4,19 @@
 <h1 align="center">
   Приветствую, я Flemix
 </h1>
+
+<div align="center">
+  <h1>Языки программирования</h1>
+</div>
+
+<div align="center">
+  <h2>Инструменты</h2>
+</div>
+
+<div align="center">
+  <h2>Контакты</h2>
+</div>
+
+<div align="center">
+  <h2>Статистика</h2>
+</div>
