@@ -15,7 +15,7 @@
 
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python&logoColor=white&color=violet">
-  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=JavaScript&logoColor=white&color=violet">
+  <!-- <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=JavaScript&logoColor=white&color=violet"> -->
 </div>
 
 <div align="center">
